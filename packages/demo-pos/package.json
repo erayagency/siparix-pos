@@ -1,5 +1,5 @@
 {
-  "name": "@siparix/demo-pos",
+  "name": "@siparix/app",
   "version": "0.1.0",
   "private": true,
   "description": "Expo demo app — retail POS screen built with @siparix/ui and @siparix/tokens. Scan QR to try it.",
