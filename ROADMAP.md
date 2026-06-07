@@ -8,7 +8,7 @@
 - [ ] `MetricTile` — KPI/stat card
 - [ ] `Screen` — layout wrapper
 
-## v0.3 — More demo screens
+## v0.3 — More reference screens
 - [ ] Barcode scanner screen
 - [ ] Customer (cari) management screen
 - [ ] Expense tracking screen

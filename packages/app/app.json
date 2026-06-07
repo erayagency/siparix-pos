@@ -10,13 +10,13 @@
     "newArchEnabled": true,
     "ios": {
       "supportsTablet": false,
-      "bundleIdentifier": "com.siparix.demo"
+      "bundleIdentifier": "com.siparix.pos"
     },
     "android": {
       "adaptiveIcon": {
         "backgroundColor": "#F2F2F7"
       },
-      "package": "com.siparix.demo"
+      "package": "com.siparix.pos"
     },
     "plugins": [
       "expo-router",
