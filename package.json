@@ -1,0 +1,33 @@
+{
+  "name": "siparix-design-system",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Apple HIG design tokens and React Native UI components for Turkish retail apps",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "lint": "tsc --noEmit"
+  },
+  "keywords": [
+    "react-native",
+    "ios",
+    "apple-hig",
+    "design-tokens",
+    "ui-components",
+    "turkish",
+    "retail",
+    "pos"
+  ],
+  "license": "MIT",
+  "devDependencies": {
+    "@types/react": "^19.2.17",
+    "lucide-react-native": "^0.500.0",
+    "react": "^18.0.0",
+    "react-native": "^0.73.0",
+    "typescript": "^5.0.0",
+    "vitest": "^1.0.0"
+  }
+}

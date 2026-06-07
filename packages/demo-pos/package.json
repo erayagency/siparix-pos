@@ -1,0 +1,29 @@
+{
+  "name": "@siparix/demo-pos",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Expo demo app — retail POS screen built with @siparix/ui and @siparix/tokens. Scan QR to try it.",
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "expo": "~54.0.0",
+    "expo-blur": "~15.0.0",
+    "expo-haptics": "~15.0.0",
+    "expo-router": "~4.0.0",
+    "expo-status-bar": "~2.0.0",
+    "lucide-react-native": "^0.500.0",
+    "react": "^18.3.0",
+    "react-native": "^0.76.0",
+    "react-native-gesture-handler": "~2.20.0",
+    "react-native-reanimated": "~3.16.0",
+    "react-native-safe-area-context": "^5.0.0",
+    "react-native-screens": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.0.0",
+    "typescript": "^5.0.0"
+  }
+}

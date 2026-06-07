@@ -1,0 +1,16 @@
+{
+  "name": "@siparix/ui",
+  "version": "0.1.0",
+  "description": "Apple HIG React Native components — AppText, StatusPill, GroupedSection, ListRow, PrimaryAction",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "files": ["src"],
+  "keywords": ["react-native", "ui", "ios", "apple-hig", "components"],
+  "license": "MIT",
+  "peerDependencies": {
+    "react": "*",
+    "react-native": "*",
+    "lucide-react-native": "*",
+    "@siparix/tokens": "*"
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "@siparix/tokens",
+  "version": "0.1.0",
+  "description": "Apple HIG iOS 18 design tokens — colors, spacing, radius, typography, shadows",
+  "main": "./src/index.ts",
+  "types": "./src/index.ts",
+  "files": ["src"],
+  "keywords": ["design-tokens", "ios", "apple-hig", "react-native"],
+  "license": "MIT"
+}
