@@ -17,12 +17,14 @@
 ## Quick preview
 
 ```bash
-cd packages/demo-pos
+git clone https://github.com/erayagency/siparix-pos.git
+cd siparix-pos
 npm install
+cd packages/demo-pos
 npx expo start
 ```
 
-Scan the QR code with Expo Go to see a working retail POS screen.
+Scan the QR code with Expo Go to see a working retail POS screen (sales + products tabs).
 
 ## Why open source?
 
