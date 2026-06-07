@@ -10,7 +10,7 @@ Open source React Native components and design tokens powering retail POS interf
 |---------|-------------|--------|
 | [`@siparix/tokens`](./packages/tokens) | Apple HIG design tokens — 150+ values, zero dependencies | ✓ Production |
 | [`@siparix/ui`](./packages/ui) | 11 POS-specific React Native components | ✓ Production |
-| [`@siparix/app`](./packages/demo-pos) | Reference POS implementation (Expo) | ✗ Standalone reference |
+| [`@siparix/app`](./packages/app) | Reference POS implementation (Expo) | ✅ Reference |
 
 ## Quick start
 

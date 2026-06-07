@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Siparix POS Demo",
-    "slug": "siparix-pos-demo",
+    "name": "Siparix POS",
+    "slug": "siparix-pos",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
